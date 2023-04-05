@@ -1,9 +1,9 @@
 .body{
-    background:#F2E4E7}
+    background:#efedee}
 
 .primero {
     font-family: 'Poppins', sans-serif;
-    width: 71.5%;
+    width: 70.6%;
     height: auto;
     background: white;
     position: absolute;
@@ -19,6 +19,7 @@
  .primero .el {
     font-family: 'Poppins', sans-serif;
     margin-right: 30px;
+    text-align: center;
  }
 
  .primero .c {
@@ -29,7 +30,7 @@
     width: 70%;
     height: 360px;
     background: #D6D2D2;
-    padding: 10px;
+    padding: 5px;
     position: absolute;
     right: 15%;
     left: 13%;
@@ -51,20 +52,20 @@
  }
 
  .encabezado .datos .p1 {
-    color: white;
+    color: black;
     font-family: 'Poppins', sans-serif;
     font-weight: bolder;
     font-size: 60px;
     margin-bottom: 0%;
-    text-align:left
+    text-align:center
  }
 
  .encabezado .datos .p2 {
-    color: white;
+    color: black;
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
     margin-top: 0%;
-    text-align:left
+    text-align:center
     
  }
  .encabezado .datos .correo {
@@ -74,7 +75,9 @@
     font-size: 13px;
     margin-top: 0%;
     margin-bottom: 0%;
-    text-align:left;
+    position: absolute;
+    left: 38%;
+    margin-top: 0%;
     background-color: black;
     padding: 3px;
     border-radius: 11px;   
@@ -86,7 +89,9 @@
     margin:.7%;
     position: absolute;
     left: 13.8%;
-    margin-top: 27.6%;
+    margin-top: 26.9%;
+    
+    
 }
 
 .izq .I1{
@@ -157,19 +162,122 @@
     
 .der{
     width: 46.4%;
-    height: ;
-    background: #A1D110;
+    height: 700PX;
+    background: #91d1ce;
     position: absolute;
-    left: 39.5%;
-    top: 57%;
+    left: 38.8%;
+    top: 55.5%;
 }
 
-.izq .I5{
+.der .I1{
     color: rgb(40, 39, 39);
     font-family: 'Sofia Sans Extra Condensed', sans-serif;
     margin-top: 0%;
     margin-bottom: 0%;
     text-align:left;
-    font-size: 18PX;
+    font-size: 14PX;
     margin-left: 5%;
+    font-weight: bolder;
 }
+
+.der .I1d{
+    color: rgb(40, 39, 39);
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align:left;
+    position: absolute;
+    left: 5%;
+}
+
+.der .ld{
+    width: 195px;
+    height: 5px;
+    text-align: center;
+    margin-left: 5%;
+    margin-top: 3.9%;
+    margin-bottom: 1%;
+}
+
+.der .I2{
+    color: rgb(40, 39, 39);
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align:left;
+    position: absolute;
+    left: 5%;
+    font-weight: bolder;
+}
+
+.der .lineaconocimiento{
+
+    position: absolute;
+    left: 5%;
+    font-weight: bolder;
+    top: 51%;
+    font-weight: bolder;
+}
+
+.der .logos{
+
+    width: 14px;
+    height: 14px;
+    position: absolute;
+    left: 30%;
+    top: 82%;
+}
+.der .logosPT{
+
+    width: 14Px;
+    height: 14px;
+    position: absolute;
+    left: 30%;
+    top: 85%;
+}
+
+.der .logoIL{
+
+    width: 14Px;
+    height: 14px;
+    position: absolute;
+    left: 30%;
+    top: 87.3%;
+}
+
+.der .logoSK{
+
+    width: 14Px;
+    height: 14px;
+    position: absolute;
+    left: 30%;
+    top: 89.5%;
+}
+
+.der .logost{
+
+    width: 14Px;
+    height: 14px;
+    position: absolute;
+    left: 30%;
+    top: 92%;
+}
+
+.der .lineaHA{
+
+    position: absolute;
+    left: 5%;
+    font-weight: bolder;
+    top: 75%;
+    font-weight: bolder;
+}
+.final{
+    background-color: rgb(121, 121, 123);
+    position: absolute;
+    width: 70.8%;
+    top: 152%;
+    
+    left: 14.4%;
+    height: 1%;
+}
+    
