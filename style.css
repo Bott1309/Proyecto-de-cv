@@ -1,5 +1,5 @@
 .body{
-    background:#efedee}
+    background:#000000}
 
 .primero {
     font-family: 'Poppins', sans-serif;
@@ -19,7 +19,7 @@
  .primero .el {
     font-family: 'Poppins', sans-serif;
     margin-right: 30px;
-    text-align: center;
+    text-align: left;
  }
 
  .primero .c {
@@ -84,7 +84,7 @@
  }
 .izq{
     width: 25%;
-    height: auto;
+    height: 700px;
     background-color: white;
     margin:.7%;
     position: absolute;
